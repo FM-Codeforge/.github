@@ -10,20 +10,20 @@ We don't just write scripts; we engineer robust, battle-tested infrastructure bu
 
 ### 🏗️ Core Architecture & Stack
 
-We build primarily on modern, bleeding-edge web technologies with a strict focus on type safety, performance, and maintainability:
+We engineer high-throughput, cloud-native platforms with a strict focus on data isolation, type safety, and maintainable scale. Our expertise spans modern monolithic architectures to distributed microservices:
 
-* **Frontend Engine:** Angular 21+ (AOT, Zoneless Architecture, NgRx Store/Signals)
-* **UI/UX Design:** Tailwind CSS, PrimeNG, Responsive Layouts
-* **Backend Core:** Node.js 24+, TypeScript, Express 5.x
-* **Data Layer:** PostgreSQL, Sequelize ORM, Redis (Specializing in Isolated Multi-Tenant DBs)
-* **Testing & Tooling:** Vitest, Playwright E2E, Yarn 4 (Modern), Strict CI/CD Pipelines
+* **Cloud Infrastructure & DevOps:** Orchestrating scalable environments via Kubernetes, Docker, AWS, and GCP. We design robust CI/CD pipelines to fully automate complex deployment lifecycles.
+* **Backend & API Architecture:** Node.js (TypeScript), Python, and C# (.NET). We specialize in high-traffic RESTful APIs, GraphQL, and real-time event streaming with Socket.IO.
+* **Data Engineering:** PostgreSQL (with strict Row-Level/Schema-Level Security for multi-tenancy), Redis caching, and MongoDB. We utilize advanced ORMs (Sequelize, Prisma) and message brokers like RabbitMQ to ensure zero data loss.
+* **Frontend Frameworks:** Angular (NgRx/Signals), Next.js, and React Native. We build highly responsive, state-driven user interfaces using Tailwind CSS and modern component libraries.
+* **Testing & Tooling:** Vitest, Playwright E2E, Modern Yarn, and strict code-review conventions within Agile/Scrum methodologies.
 
 ### 🛠️ Services & Expertise
 
 * **Enterprise Architecture:** Designing highly scalable system schemas, secure multi-tenant environments, and optimized API control planes.
 * **SaaS & ERP Development:** Full-lifecycle engineering of complex business tools, including dynamic quotas, role-based access control, and global lookups.
 * **Legacy Modernization:** Strategically upgrading aging enterprise codebases to the latest, most stable, and secure framework versions.
-* **Infrastructure Security:** Implementing secure token mechanisms, WAF protections, and strict payload validations.
+* **Infrastructure Security:** Implementing secure token mechanisms, WAF protections, strict payload validations, and ZATCA compliance.
 
 ### 📬 Let's Build Something Solid
 
